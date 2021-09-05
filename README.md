@@ -32,11 +32,6 @@ Also even without touching and interrupting the flow of play user/client can cha
 Scope: Can be implemented in various teaching fields and industries where for many technical and non-technical purposes. Further many additional features can be added to this project in order to increase its usability and utility.
 ![Untitled design (3)](https://user-images.githubusercontent.com/84179156/132120139-eacd3155-6fb4-4c2a-b118-642196c3dbb7.png)
 
-# Thanks and Regards
-Om Podey
 
-mail: ompodey@gmail.com
-
-linkedin: https://www.linkedin.com/in/om-podey-0b49a9210/
 
 
